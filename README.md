@@ -24,6 +24,7 @@ Clone the Repository (Optional)
 If you want to contribute or modify the application, clone the repository using Git:
 
 git clone https://github.com/your-username/task_manager.git
+["Please copy the code from my GitHub link: https://github.com/DattatriBachare/Task_Manager.git."]
 
 cd task_manager
 
