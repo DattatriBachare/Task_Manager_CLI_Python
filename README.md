@@ -2,9 +2,13 @@
 Description
 
 This is a user-friendly command-line interface (CLI) application for managing your daily tasks. It allows you to:
+
 •	Add new tasks: Create new tasks with descriptive titles.
+
 •	View existing tasks: List all tasks, clearly indicating their completion status.
+
 •	Mark tasks complete: Mark completed tasks for better organization.
+
 •	Delete tasks: Remove unneeded tasks by their ID.
 ________________________________________
 
